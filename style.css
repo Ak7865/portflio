@@ -124,8 +124,6 @@ nav ul li a:hover::after {
 }
 
 .sub-title {
-    padding-bottom:100px;
-text-align: center;
     font-size: 60px;
     font-weight: 600;
     color: #fff;
@@ -222,7 +220,7 @@ width: 100%;
 }
 
 .services-list div:hover {
-    background: #ff004f;
+background:#4c47e6;
     transform: translateY(-10px);
 }
 
@@ -380,7 +378,9 @@ form textarea {
     border-radius: 6px;
 }
 
-.copyright {
+
+.copyright { 
+  
     width: 100%;
     text-align: center;
     padding: 25px 0;
@@ -409,7 +409,7 @@ nav .fas {
     }
 
     .header-text {
-        margin-top: 100%;
+        margin-top: 50%;
         font-size: 16px;
     }
 
@@ -458,16 +458,22 @@ nav .fas {
 
     /* Show the navigation menu on small screens */
     nav ul {
-        display: none;
+        display: block;
+        overflow:hidden;
+        
     }
 
     nav .fas {
-        display: block;
-        font-size: 25px;
+     display: flex;
+     font-size: 25px;
+     justify-content: flex-end;
+    padding-right:20px;
+   
     }
 
+
     nav ul {
-        background: #b54768;
+        background: #867d80;
         position: fixed;
         top: 0;
         width: 200px;
@@ -489,4 +495,44 @@ nav .fas {
         display: block;
         margin: 25px;
     }
+.contact-left h1{
+
+font-size:45px;    
+}
+
+.contact-left p {
+    width:170%;
+    text-align:center;  
+    }
+.contact-left a  {
+    width:170%;
+    text-align:center;  
+    }
+    .btn  {
+    width:100%;
+    text-align:center;  
+    }
+.social-icons {
+    width:170%;
+ display:flex;
+ align-items:center;
+ justify-content:center;
+}
+.contact-right form {
+    margin:auto;
+   width:170%;
+    padding:3px ;
+    
+}
+.about-col-1 {
+    flex-basis: 60%;
+}
+
+
+.about-col-1 img {
+    width: 170%;
+    border-radius: 15px;
+    display: block;
+    transition: transform 0.5s;
+}
 }
