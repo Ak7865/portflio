@@ -5,7 +5,7 @@ require 'PHPMailer.php';
 require 'SMTP.php';
 
 
-// require 'vendor/autoload.php';
+require 'vendor/autoload.php';
 use PHPMailer\SMTP;
 use PHPMailer\PHPMailer;
 use PHPMailer\Exception;
@@ -41,8 +41,8 @@ if (isset($_POST['send'])) {
         $mail->SMTPAuth   = true;
         $mail->Username   = 'ah076145@gmail.com'; // Your Gmail address
         $mail->Password   = 'ocvs chgs qzkp ymvy';        // Your Gmail password or app password
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
-        $mail->Port       = 465;
+        $mail->SMTPSecure = tls;
+        $mail->Port       = 587;
 
         // Sender and recipient
         $mail->setFrom($email, $name); // Use form data for sender
