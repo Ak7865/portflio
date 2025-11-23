@@ -51,7 +51,14 @@ html {
   border-top: 1px solid rgba(225,213,236,0.3);
   color: var(--lavender);
 }
-
+a,
+a:hover,
+a:focus,
+a:active,
+a:visited {
+  text-decoration: none !important;
+  outline: none !important;
+}
 /* CARDS */
 .card {
   background: rgba(61, 38, 82, 0.35);
