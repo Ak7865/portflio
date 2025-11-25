@@ -3,7 +3,7 @@ import TeamCard from "../components/TeamCard";
 
 import akhterImg from "../assets/akhter.jpg";
 import nilotpalImg from "../assets/nil.jpg";
-import rakibulImg from "../assets/rakibul.jpg";
+import rakibulImg from "../assets/rakibul.png";
 
 const team = [
   {
@@ -31,7 +31,7 @@ const team = [
       "I focus on crafting clean, responsive interfaces that feel smooth and intuitive.",
     skills: ["HTML, CSS, JavaScript", "UI Layouts", "Responsive Web Design"],
     education: [
-      "B.Tech in CSE (BVEC)",
+      "B.Tech in CSE (BVEC - ongoing)",
       "Diploma in CSE (Nalbari Polytechnic)",
       "HSLC from Don Bosco School",
     ],
@@ -46,10 +46,12 @@ const team = [
       "Digital Marketing Basics",
       "Brand Visibility",
       "Social Media Promotions",
+      
     ],
     education: [
-      "Marketing Experience",
-      "Promotion Lead at 8BitBannar",
+      "B.Tech in CSE (USTM - ongoing)",
+      "Diploma in CSE (Nalbari Polytechnic)",
+      "High Schooling From JNV"
     ],
     img: rakibulImg,
   },
