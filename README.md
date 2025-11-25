@@ -33,12 +33,6 @@ It is designed to be fully responsive, SEO‑optimized, fast-loading, visually a
 ![Live Preview](./public/preview.gif)
 
 
----
-
-# 🖼️ Project Banner
-
-![8BitBannar Banner](./public/banner.png)
-
 
 ---
 
