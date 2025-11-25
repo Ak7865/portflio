@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import TeamCard from "../components/TeamCard";
 
 import akhterImg from "../assets/akhter.jpg";
-import nilotpalImg from "../assets/nil.jpg";
+import nilotpalImg from "../assets/nil.jpeg";
 import rakibulImg from "../assets/rakibul.png";
 
 const team = [
