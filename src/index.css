@@ -4,12 +4,12 @@
 
 /* GLOBAL COLORS */
 :root {
-  --primary: #3D2652;
-  --soft-green: #99D562;
-  --lavender: #E1D5EC;
-  --accent-green: #28AF6E;
-  --dark: #1B1128;
-  --navy-sky:#5F9EA0;
+  --primary: #3d2652;
+  --soft-green: #99d562;
+  --lavender: #e1d5ec;
+  --accent-green: #28af6e;
+  --dark: #1b1128;
+  --navy-sky: #5f9ea0;
 }
 
 body {
@@ -30,8 +30,8 @@ html {
 
 /* NAVBAR */
 .navbar {
-  background: #3D2652;
-  border-bottom: 1px solid rgba(225,213,236,0.3);
+  background: #3d2652;
+  border-bottom: 1px solid rgba(225, 213, 236, 0.3);
   padding: 15px 0;
 }
 
@@ -49,7 +49,7 @@ html {
   background: var(--primary);
   padding: 20px;
   text-align: center;
-  border-top: 1px solid rgba(225,213,236,0.3);
+  border-top: 1px solid rgba(225, 213, 236, 0.3);
   color: var(--lavender);
 }
 a,
@@ -104,5 +104,5 @@ a:visited {
   object-fit: cover;
   object-position: top;
   border-radius: 16px;
-  border: 2px solid rgba(225,213,236,0.4);
+  border: 2px solid rgba(225, 213, 236, 0.4);
 }

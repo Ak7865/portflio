@@ -77,10 +77,7 @@ export default function Home() {
             help brands build a strong digital presence.
           </motion.p>
 
-          <motion.div
-            variants={itemVariants}
-            className="flex flex-wrap gap-4"
-          >
+          <motion.div variants={itemVariants} className="flex flex-wrap gap-4">
             <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
               <Link
                 to="/portfolio"

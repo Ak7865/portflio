@@ -15,11 +15,11 @@ export default function Contact() {
   const [sending, setSending] = useState(false);
 
   // EmailJS config
-    const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-    const TEMPLATE_ID_OWNER = import.meta.env.VITE_EMAILJS_TEMPLATE_ID_OWNER;
-    const TEMPLATE_ID_AUTOREPLY = import.meta.env.VITE_EMAILJS_TEMPLATE_ID_AUTOREPLY;
-    const USER_ID = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
-
+  const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+  const TEMPLATE_ID_OWNER = import.meta.env.VITE_EMAILJS_TEMPLATE_ID_OWNER;
+  const TEMPLATE_ID_AUTOREPLY = import.meta.env
+    .VITE_EMAILJS_TEMPLATE_ID_AUTOREPLY;
+  const USER_ID = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
   const handleContactInput = (e) => {
     setContactUser({ ...contactUser, [e.target.name]: e.target.value });
@@ -47,9 +47,13 @@ export default function Contact() {
 
     emailjs
       .send(SERVICE_ID, TEMPLATE_ID_OWNER, params, USER_ID)
-      .then(() => emailjs.send(SERVICE_ID, TEMPLATE_ID_AUTOREPLY, params, USER_ID))
+      .then(() =>
+        emailjs.send(SERVICE_ID, TEMPLATE_ID_AUTOREPLY, params, USER_ID)
+      )
       .then(() => {
-        setContactSuccess("Message delivered! Confirmation sent to your email.");
+        setContactSuccess(
+          "Message delivered! Confirmation sent to your email."
+        );
         setContactUser({
           senderName: "",
           senderEmail: "",
@@ -58,7 +62,9 @@ export default function Contact() {
         });
       })
       .catch(() => {
-        setContactError("Failed to send. Please check your info and try again.");
+        setContactError(
+          "Failed to send. Please check your info and try again."
+        );
       })
       .finally(() => setSending(false));
   };
@@ -75,7 +81,6 @@ export default function Contact() {
       </motion.h1>
 
       <div className="row g-4">
-        
         {/* LEFT CONTACT INFO CARD */}
         <div className="col-12 col-md-5">
           <motion.div
@@ -84,13 +89,16 @@ export default function Contact() {
             transition={{ duration: 0.5 }}
             className="card-8bit h-100"
           >
-            <h2 className="text-xl font-semibold mb-2" style={{ color: "var(--soft-green)" }}>
+            <h2
+              className="text-xl font-semibold mb-2"
+              style={{ color: "var(--soft-green)" }}
+            >
               Let's build something together
             </h2>
 
             <p className="text-sm opacity-80 mb-3">
-              Share your idea, portfolio needs, or business requirements.  
-              We’ll reply with a clear action plan.
+              Share your idea, portfolio needs, or business requirements. We’ll
+              reply with a clear action plan.
             </p>
 
             <ul className="text-sm opacity-80 space-y-1">
@@ -164,12 +172,16 @@ export default function Contact() {
 
             {/* Error */}
             {contactError && (
-              <div className="alert alert-danger py-2 text-xs">{contactError}</div>
+              <div className="alert alert-danger py-2 text-xs">
+                {contactError}
+              </div>
             )}
 
             {/* Success */}
             {contactSuccess && (
-              <div className="alert alert-success py-2 text-xs">{contactSuccess}</div>
+              <div className="alert alert-success py-2 text-xs">
+                {contactSuccess}
+              </div>
             )}
 
             {/* Submit Button */}

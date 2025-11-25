@@ -20,11 +20,16 @@ export default function Navbar() {
       style={{ backgroundColor: "transparent" }}
     >
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
-
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
-          <img src={logo} alt="8BitBannar" className="w-9 h-9 rounded-full object-cover" />
-          <span className="text-xl font-semibold text-lavender">8BitBannar</span>
+          <img
+            src={logo}
+            alt="8BitBannar"
+            className="w-9 h-9 rounded-full object-cover"
+          />
+          <span className="text-xl font-semibold text-lavender">
+            8BitBannar
+          </span>
         </Link>
 
         {/* Desktop Links */}

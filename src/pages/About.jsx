@@ -23,6 +23,11 @@ const team = [
       "HSLC from Morikalong High School",
     ],
     img: akhterImg,
+    socials: {
+      linkedin: "https://www.linkedin.com/in/syed-akhter-hussain-026361233/",
+      instagram: "https://instagram.com/syed_akhter_hussain",
+      github: "https://github.com/Ak7865",
+    },
   },
   {
     name: "Nilotpal Choudhury",
@@ -36,6 +41,10 @@ const team = [
       "HSLC from Don Bosco School",
     ],
     img: nilotpalImg,
+    socials: {
+      linkedin: "https://www.linkedin.com/in/nilotpal-choudhury-872317234/",
+      instagram: "https://www.instagram.com/nilotpal_8475",
+    },
   },
   {
     name: "Rakibul Islam",
@@ -46,21 +55,23 @@ const team = [
       "Digital Marketing Basics",
       "Brand Visibility",
       "Social Media Promotions",
-      
     ],
     education: [
       "B.Tech in CSE (USTM - ongoing)",
       "Diploma in CSE (Nalbari Polytechnic)",
-      "High Schooling From JNV"
+      "High Schooling From JNV",
     ],
     img: rakibulImg,
+    socials: {
+      linkedin: "https://www.linkedin.com/in/rakibul-islam-809570239/",
+      instagram: "https://www.instagram.com/just_bul",
+    },
   },
 ];
 
 export default function About() {
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-16 space-y-10">
-      
       <motion.h1
         initial={{ opacity: 0, y: 10 }}
         animate={{ opacity: 1, y: 0 }}
@@ -70,8 +81,9 @@ export default function About() {
       </motion.h1>
 
       <p className="text-sm sm:text-base text-gray-300 max-w-3xl">
-        8BitBannar is a WebTech company from Assam, specializing in modern, 
-        responsive web design, full-stack development, UI/UX, and digital branding.
+        8BitBannar is a WebTech company from Assam, specializing in modern,
+        responsive web design, full-stack development, UI/UX, and digital
+        branding.
       </p>
 
       <motion.h2

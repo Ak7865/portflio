@@ -33,8 +33,8 @@ export default function Portfolio() {
       </motion.h1>
 
       <p className="text-sm sm:text-base text-gray-300 max-w-3xl mb-8">
-        A glimpse of some of the projects and experiments done by 8BitBannar.
-        We keep learning, iterating, and building better each time.
+        A glimpse of some of the projects and experiments done by 8BitBannar. We
+        keep learning, iterating, and building better each time.
       </p>
 
       <div className="row g-4">
