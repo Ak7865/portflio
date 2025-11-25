@@ -29,7 +29,6 @@ It is designed to be fully responsive, SEO‑optimized, fast-loading, visually a
 
 ### ▶️ **Visit Website:** [https://8bitbannar.in](https://8bitbannar.in)
 
-You can include a live preview GIF or screenshot here:
 
 ![Live Preview](./public/preview.gif)
 
