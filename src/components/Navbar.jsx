@@ -19,7 +19,7 @@ export default function Navbar() {
       initial={{ y: -40, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.6 }}
-      className="fixed top-0 left-0 w-full z-50 backdrop-blur-md border-b border-lavender/30" style={{ backgroundColor: 'rgb(40,175,110)' }}
+      className="fixed top-0 left-0 w-full z-50 backdrop-blur-md border-b border-lavender/30" style={{ backgroundColor: "transparent" }}
     >
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16" >
        
@@ -54,7 +54,7 @@ export default function Navbar() {
          
 
           <button
-            className="md:hidden inline-flex items-center justify-center w-9 h-9 border border-lavender/30 rounded-lg"
+            className="md:hidden inline-flex items-center justify-center w-10 h-10 border border-lavender/30 rounded-lg"
             onClick={() => setOpen((o) => !o)}
           >
             <span className="sr-only">Toggle menu</span>
@@ -69,7 +69,7 @@ export default function Navbar() {
       {/* Mobile Menu */}
       {open && (
         <motion.div
-          initial={{ opacity: 0, y: -10 }}
+          initial={{ opacity: 1, y: 0 }}
           animate={{ opacity: 1, y: 0 }}
           className="md:hidden bg-primary/98 border-t border-lavender/30"
         >
