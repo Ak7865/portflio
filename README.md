@@ -157,7 +157,7 @@ To fix route refresh issues, add a `vercel.json` file:
 
 ## 🎨 **Nilotpal Choudhury — Co-Founder & Frontend Developer**
 
-<img src="./public/nil.jpeg" alt="Nilotpal Choudhury" width="160" style="border-radius: 12px;" />
+<img src="./public/nil.jpeg" alt="Nilotpal Choudhury" width="160" heigh="160" style="border-radius: 12px;" />
 
 **Role:** Frontend Developer · Co-Founder
 **Skills:** HTML, CSS, JavaScript, Responsive UI
@@ -167,7 +167,7 @@ To fix route refresh issues, add a `vercel.json` file:
 
 ## 📢 **Rakibul Islam — Co-Founder & Marketing Lead**
 
-<img src="./public/rakibul.jpeg" alt="Rakibul Islam" width="200" style="border-radius: 12px;" />
+<img src="./public/rakibul.jpeg" alt="Rakibul Islam"width="160" heigh="160" style="border-radius: 12px;" />
 
 **Role:** Marketing & Promotion · Co-Founder
 **Skills:** Branding, Digital Marketing, Visibility Boost
@@ -229,7 +229,7 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 
 ## 🧑‍💻 **Syed Akhter Hussain — Founder & Full Stack Developer**
 
-<img src="./public/akhter.jpg" width="180" style="border-radius: 12px;" />
+<img src="./public/akhter.jpg" width="160" heigh="160" style="border-radius: 12px;" />
 
 **Role:** Full Stack Developer · Founder
 **Skills:** React, PHP, MySQL, UI/UX, Tailwind, System Architecture
@@ -239,7 +239,7 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 
 ## 🎨 **Nilotpal Choudhury — Co-Founder & Frontend Developer**
 
-<img src="./public/nil.jpeg" width="180" style="border-radius: 12px;" />
+<img src="./public/nil.jpeg" width="160" heigh="160" style="border-radius: 12px;" />
 
 **Role:** Frontend Developer · Co-Founder
 **Skills:** HTML, CSS, JavaScript, Responsive UI/UX
@@ -249,7 +249,7 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 
 ## 📢 **Rakibul Islam — Co-Founder & Marketing Lead**
 
-<img src="./public/rakibul.jpeg" width="180" style="border-radius: 12px;" />
+<img src="./public/rakibul.jpeg" width="160" heigh="160" style="border-radius: 12px;" />
 
 **Role:** Marketing & Promotion · Co-Founder
 **Skills:** Digital Marketing, Social Media Strategy, Branding
