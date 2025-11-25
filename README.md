@@ -167,7 +167,7 @@ To fix route refresh issues, add a `vercel.json` file:
 
 ## 📢 **Rakibul Islam — Co-Founder & Marketing Lead**
 
-<img src="./public/rakibul.jpeg" alt="Rakibul Islam" width="160" style="border-radius: 12px;" />
+<img src="./public/rakibul.jpeg" alt="Rakibul Islam" width="200" style="border-radius: 12px;" />
 
 **Role:** Marketing & Promotion · Co-Founder
 **Skills:** Branding, Digital Marketing, Visibility Boost
