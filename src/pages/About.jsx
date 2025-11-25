@@ -26,7 +26,7 @@ const team = [
   },
   {
     name: "Nilotpal Choudhury",
-    role: "Frontend Developer",
+    role: "Frontend Developer · Co-Founder, 8BitBannar",
     quote:
       "I focus on crafting clean, responsive interfaces that feel smooth and intuitive.",
     skills: ["HTML, CSS, JavaScript", "UI Layouts", "Responsive Web Design"],
@@ -39,7 +39,7 @@ const team = [
   },
   {
     name: "Rakibul Islam",
-    role: "Marketing & Promotion",
+    role: "Marketing & Promotion · Co-Founder, 8BitBannar",
     quote:
       "Good products deserve great visibility — I help brands reach the right audience.",
     skills: [
