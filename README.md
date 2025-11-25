@@ -298,7 +298,7 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 ### **Syed Akhter Hussain**
 
 * 🌐 Website: [https://8bitbannar.in](https://8bitbannar.in)
-* 💼 LinkedIn: [https://www.linkedin.com/in/syed-akhter-hussain-026361233/](https://www.linkedin.com/in/syed-akhter-hussain-026361233/)
+* 💼 LinkedIn: [Syed Akhter Hussain - LindIn](https://www.linkedin.com/in/syed-akhter-hussain-026361233/)
 * 📸 Instagram: [https://instagram.com/syed_akhter_hussain](https://instagram.com/syed_akhter_hussain)
 * 🐙 GitHub: [https://github.com/Ak7865](https://github.com/Ak7865)
 
