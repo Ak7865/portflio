@@ -7,7 +7,7 @@ A modern, responsive, full-stack-ready website for **8BitBannar**, a WebTech & D
 # 🖼️ Project Banner
 
 ![8BitBannar Banner](./banner.png)
-*(Replace this with your banner image if needed)*
+*(Place your banner at `public/banner.png` — recommended for React/Vite projects)**
 
 ---
 
