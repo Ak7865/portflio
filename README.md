@@ -297,15 +297,15 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 
 ### **Syed Akhter Hussain**
 
-* 🌐 Website: [https://8bitbannar.in](https://8bitbannar.in)
-* 💼 LinkedIn: [Syed Akhter Hussain - LindIn](https://www.linkedin.com/in/syed-akhter-hussain-026361233/)
-* 📸 Instagram: [https://instagram.com/syed_akhter_hussain](https://instagram.com/syed_akhter_hussain)
-* 🐙 GitHub: [https://github.com/Ak7865](https://github.com/Ak7865)
+*  [🌐 Website](https://8bitbannar.in)
+*  [💼 LinkedIn](https://www.linkedin.com/in/syed-akhter-hussain-026361233/)
+*  [📸 Instagram](https://instagram.com/syed_akhter_hussain)
+*  [🐙 GitHub:](https://github.com/Ak7865)
 
 ### **Nilotpal Choudhury**
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/nilotpal-choudhury-872317234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/syed-akhter-hussain-026361233/)
-* 📸 Instagram: [https://www.instagram.com/nilotpal_8475?igsh=MW5jN2Rwbm5jNHFnOA==](https://instagram.com/syed_akhter_hussain)
+*  [💼 LinkedIn](https://www.linkedin.com/in/nilotpal-choudhury-872317234/)
+*  [📸 Instagram](https://www.instagram.com/nilotpal_8475)
 
 ### **Rakibul Islam**
 
