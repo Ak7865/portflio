@@ -304,7 +304,7 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 
 ### **Nilotpal Choudhury**
 
-*  [💼 LinkedIn](https://www.linkedin.com/in/nilotpal-choudhury-872317234/)
+*  [💼 LinkedIn style="text-decoration:none"](https://www.linkedin.com/in/nilotpal-choudhury-872317234/)
 *  [📸 Instagram](https://www.instagram.com/nilotpal_8475)
 
 ### **Rakibul Islam**
@@ -317,3 +317,7 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 # ⭐ Contributions
 
 Contributions, suggestions, and improvements are welcome!
+
+
+
+
