@@ -38,7 +38,7 @@ You can include a live preview GIF or screenshot here:
 
 # 🖼️ Project Banner
 
-![8BitBannar Banner](./banner.png)
+![8BitBannar Banner](./public/banner.png)
 
 
 ---
@@ -309,8 +309,8 @@ To become one of the most trusted and creative WebTech brands in the Northeast, 
 
 ### **Rakibul Islam**
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/rakibul-islam-809570239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/syed-akhter-hussain-026361233/)
-* 📸 Instagram: [https://www.instagram.com/just_bul?igsh=ZjRzYzhsZ3piZ29k](https://instagram.com/syed_akhter_hussain)
+*  [💼 LinkedIn](https://www.linkedin.com/in/rakibul-islam-809570239/)
+*  [📸 Instagram](https://www.instagram.com/just_bul)
 
 ---
 
