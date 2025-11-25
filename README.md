@@ -147,7 +147,7 @@ To fix route refresh issues, add a `vercel.json` file:
 
 ## 🧑‍💻 **Syed Akhter Hussain — Founder & Full Stack Developer**
 
-<img src="./public/akhter.jpg" alt="Syed Akhter Hussain" width="160" heigh="160" style="border-radius: 12px;" />
+<img src="./public/akhter.jpg" alt="Syed Akhter Hussain"  style="border-radius: 12px;" />
 
 **Role:** Full Stack Developer · Founder
 **Skills:** React, PHP, MySQL, Tailwind, UI/UX, Deployment
