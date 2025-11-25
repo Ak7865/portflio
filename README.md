@@ -1,16 +1,130 @@
-# React + Vite
+# 8BitBannar – WebTech Company Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, full-stack-ready website for **8BitBannar**, a WebTech & Digital Solutions company based in Assam. Built using **React + Vite**, **TailwindCSS**, **Bootstrap**, **Framer Motion**, and **EmailJS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🖼️ Project Banner
 
-## React Compiler
+![8BitBannar Banner](./banner.png)
+*(Replace this with your banner image if needed)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# 🧩 Tech Stack Badges
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **Frontend & UI**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-563D7C?style=for-the-badge\&logo=vite\&logoColor=yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### **Animations**
+
+![FramerMotion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer\&logoColor=blue)
+![Typed.js](https://img.shields.io/badge/React_Typed-000000?style=for-the-badge\&logo=react\&logoColor=white)
+
+### **Backend / API**
+
+![EmailJS](https://img.shields.io/badge/EmailJS-4B32C3?style=for-the-badge\&logo=emailjs\&logoColor=white)
+
+### **Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+# 🚀 About the Project
+
+8BitBannar is a WebTech startup founded by **Syed Akhter Hussain**. The company focuses on modern web solutions such as:
+
+* Portfolio development
+* Business and branding websites
+* Web applications
+* UI/UX design
+* Marketing and digital promotions
+
+---
+
+# 📄 Pages & Sections
+
+## 🏠 Home
+
+Modern hero section with typed animation, framer-motion effects, and CTAs.
+
+## 👥 About Us
+
+Team overview featuring:
+
+* Founder & Developers
+* Skills
+* Education
+
+## 🛠 Services
+
+We offer:
+
+* Portfolio Development
+* Web Development
+* UI/UX & Branding
+
+## 📁 Portfolio
+
+Showcase of finished and practice projects.
+
+## 📩 Contact
+
+Fully working EmailJS-powered contact form with auto-reply.
+
+---
+
+# 🔧 Project Setup
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run development server
+
+```bash
+npm run dev
+```
+
+### Create production build
+
+```bash
+npm run build
+```
+
+---
+
+# 🌐 Deployment (Vercel)
+
+To fix route refresh issues, add a `vercel.json` file:
+
+```json
+{
+  "rewrites": [
+    { "source": "/*", "destination": "/" }
+  ]
+}
+```
+
+---
+
+# 👤 Author
+
+**Syed Akhter Hussain** — Founder, 8BitBannar
+
+📧 Email: [ah076145@gmail.com](mailto:ah076145@gmail.com)
+📱 Phone: +91 9127222171
+🌐 Website: [https://8bitbannar.in](https://8bitbannar.in)
+
+---
+
+# ⭐ Contributions
+
+Contributions, suggestions, and improvements are welcome!
