@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import TeamCard from "../components/TeamCard";
 
-import akhterImg from "../assets/akhter.jpg";
+import akhterImg from "../assets/43193.jpg";
 import nilotpalImg from "../assets/nil.jpeg";
 import rakibulImg from "../assets/rakibul.png";
 
